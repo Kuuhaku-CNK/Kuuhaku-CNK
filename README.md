@@ -5,7 +5,7 @@
 
 🌱 I'm currently learning Data Structures and Algorithm at my school so I try to solve problems on my school website and other website like Codeforces.
 
-⚡ I'm also interested in coding some of my own project in Latex (usually just documents for studying subject at school)
+⚡ I'm also interested in coding some of my own project in Latex (usually just documents for studying subjects at school)
 
 Contact
 for work: khangcn6@gmail.com
