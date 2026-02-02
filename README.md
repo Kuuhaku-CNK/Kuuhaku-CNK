@@ -3,7 +3,7 @@
 
 🔭 I'm currently a student at University of Information Technology - VNUHCM. My major is Integrated Circuit Design.
 
-🌱 I'm currently learning Data Structures and Algorithm at my school so I try to solve problems on my school website and other website like Codeforces.
+🌱 I'm currently learning HDL at my school so I try to build some projects then upload to Github.
 
 ⚡ I'm also interested in coding some of my own project in Latex (usually just documents for studying subjects at school)
 
